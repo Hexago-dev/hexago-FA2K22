@@ -1,0 +1,5 @@
+{
+    "order_pages": ["sectionOne.html", "sectionTwo.html", "sectionThree.html"],
+    "styles_pages": ["sectionOne.css", "sectionTwo.css", "sectionTree.css"]
+
+}
